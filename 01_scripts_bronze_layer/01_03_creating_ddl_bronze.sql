@@ -73,5 +73,5 @@ BEGIN
 		TABLOCK
 	);
 
-    PRINT 'All actions were concreted correctly without errors';
+PRINT 'All actions were concreted correctly without errors';
 END
